@@ -1,0 +1,17 @@
+{
+  "name": "dsa_aula06_crud_produtos",
+  "version": "1.0.0",
+  "description": "Projeto que realiza um CRUD de produtos",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
